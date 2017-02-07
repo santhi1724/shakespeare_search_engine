@@ -1,0 +1,6 @@
+S:\MIS 546\assignment1\XML_converter\XML_converter\bin\Debug\XML_converter.exe.config
+S:\MIS 546\assignment1\XML_converter\XML_converter\bin\Debug\XML_converter.exe
+S:\MIS 546\assignment1\XML_converter\XML_converter\bin\Debug\XML_converter.pdb
+S:\MIS 546\assignment1\XML_converter\XML_converter\obj\Debug\XML_converter.csprojResolveAssemblyReference.cache
+S:\MIS 546\assignment1\XML_converter\XML_converter\obj\Debug\XML_converter.exe
+S:\MIS 546\assignment1\XML_converter\XML_converter\obj\Debug\XML_converter.pdb
