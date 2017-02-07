@@ -1,0 +1,18 @@
+G:\MIS\BA\Assignment-25\XMLSimplifier\XMLSimplifier\bin\Debug\XMLSimplifier.exe.config
+G:\MIS\BA\Assignment-25\XMLSimplifier\XMLSimplifier\bin\Debug\XMLSimplifier.exe
+G:\MIS\BA\Assignment-25\XMLSimplifier\XMLSimplifier\bin\Debug\XMLSimplifier.pdb
+G:\MIS\BA\Assignment-25\XMLSimplifier\XMLSimplifier\obj\Debug\XMLSimplifier.Form1.resources
+G:\MIS\BA\Assignment-25\XMLSimplifier\XMLSimplifier\obj\Debug\XMLSimplifier.Properties.Resources.resources
+G:\MIS\BA\Assignment-25\XMLSimplifier\XMLSimplifier\obj\Debug\XMLSimplifier.csproj.GenerateResource.Cache
+G:\MIS\BA\Assignment-25\XMLSimplifier\XMLSimplifier\obj\Debug\XMLSimplifier.exe
+G:\MIS\BA\Assignment-25\XMLSimplifier\XMLSimplifier\obj\Debug\XMLSimplifier.pdb
+G:\MIS\BA\Assignment-25\XMLSimplifier\XMLSimplifier\obj\Debug\XMLSimplifier.csprojResolveAssemblyReference.cache
+S:\Assignment-25\Assignment-25\Submission Folder\XMLSimplifier\XMLSimplifier\bin\Debug\XMLSimplifier.exe.config
+S:\Assignment-25\Assignment-25\Submission Folder\XMLSimplifier\XMLSimplifier\obj\Debug\XMLSimplifier.exe
+S:\Assignment-25\Assignment-25\Submission Folder\XMLSimplifier\XMLSimplifier\obj\Debug\XMLSimplifier.pdb
+S:\Assignment-25\Assignment-25\Submission Folder\XMLSimplifier\XMLSimplifier\bin\Debug\XMLSimplifier.exe
+S:\Assignment-25\Assignment-25\Submission Folder\XMLSimplifier\XMLSimplifier\bin\Debug\XMLSimplifier.pdb
+S:\Assignment-25\Assignment-25\Submission Folder\XMLSimplifier\XMLSimplifier\obj\Debug\XMLSimplifier.csprojResolveAssemblyReference.cache
+S:\Assignment-25\Assignment-25\Submission Folder\XMLSimplifier\XMLSimplifier\obj\Debug\XMLSimplifier.Form1.resources
+S:\Assignment-25\Assignment-25\Submission Folder\XMLSimplifier\XMLSimplifier\obj\Debug\XMLSimplifier.Properties.Resources.resources
+S:\Assignment-25\Assignment-25\Submission Folder\XMLSimplifier\XMLSimplifier\obj\Debug\XMLSimplifier.csproj.GenerateResource.Cache
